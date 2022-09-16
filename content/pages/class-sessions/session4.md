@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This session discusses how to define a prototyping idea, and includes
+  materials for preparation, a short video prepared by the professor, and a reflection
+  assignment.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Class Sessions
